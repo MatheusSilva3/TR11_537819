@@ -32,5 +32,3 @@ VETOR DE 10 TAMANHO:
 REMOVENDO!VETOR DE 9 TAMANHO:
  80  70  60  50  40  30  20  10  0
 ```
-
-### <b>Aproveite o código</b>✌️		
