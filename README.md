@@ -26,8 +26,6 @@ gcc main.c TR4_537819.c -o nome-do-programa
 
 ## <b>Exemplo de compilação e execução do código:</b>
 ```
-wellington@wellignton-13:~/C/LaboratorioDeProgramacao/TR4$ gcc main.c ordvetor.c -o main
-wellington@wellignton-13:~/C/LaboratorioDeProgramacao/TR4$ ./main
 INCLUINDO... 
 VETOR DE 10 TAMANHO:
  90  80  70  60  50  40  30  20  10  0 
