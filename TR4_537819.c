@@ -33,7 +33,7 @@ void VETORD_add(VETORORD* vetor, void* novoelem){
 	}
 }
 
-//Essa Função serve para remover o menor elemento do vetor ordenado e reorganizar o vetor de acordo com a função de comparação
+//Essa Função serve para remover elemento do vetor ordenado e reorganizar o vetor de acordo com a função de comparação
 void* VETORD_remove(VETORORD* vetor) {
 	void* men = vetor -> elems[0];
 
