@@ -1,6 +1,6 @@
 # Vetor ordenado
 ## <b>Sobre o código:</b> 
-- Esse código foi desenvolvido usando a Linguagem C, na disciplina de Laboratório de Programação orientada pelo professor >Marcio Costas Santos.
+- Esse código foi desenvolvido usando a Linguagem C, na disciplina de Laboratório de Programação orientada pelo professor Marcio Costas Santos.
 
 - <b>Problema apresentado pelo professor:</b> Em anexo está um código um arquivo .h que deve ter todas as suas funções implementadas em um arquivo .c. Cada um dos alunos deve implementar todas as funções de acordo com a descrição de seu
 comportamento presente no arquivo e explicado em sala. No problema criamos um vetor ordenado, que é criada por quem usar o codico, e criar uma função para adicionar e remover valores. A função myCOMP do arquivo main.c é uma funçâo de teste, onde ela pode ter qualquer critério para ordenar a lista, se ouver outro criterio de ordenaçâo ela deve ser alterada.
